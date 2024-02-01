@@ -1,0 +1,14 @@
+C:\Users\Angel\OneDrive\Escritorio\Curso C# Pildoras\HerenciaEnC#\bin\Debug\HerenciaEnC#.exe.config
+C:\Users\Angel\OneDrive\Escritorio\Curso C# Pildoras\HerenciaEnC#\bin\Debug\HerenciaEnC#.exe
+C:\Users\Angel\OneDrive\Escritorio\Curso C# Pildoras\HerenciaEnC#\bin\Debug\HerenciaEnC#.pdb
+C:\Users\Angel\OneDrive\Escritorio\Curso C# Pildoras\HerenciaEnC#\obj\Debug\HerenciaEnC#.csproj.AssemblyReference.cache
+C:\Users\Angel\OneDrive\Escritorio\Curso C# Pildoras\HerenciaEnC#\obj\Debug\HerenciaEnC#.csproj.CoreCompileInputs.cache
+C:\Users\Angel\OneDrive\Escritorio\Curso C# Pildoras\HerenciaEnC#\obj\Debug\HerenciaEnC#.exe
+C:\Users\Angel\OneDrive\Escritorio\Curso C# Pildoras\HerenciaEnC#\obj\Debug\HerenciaEnC#.pdb
+C:\Users\Angel\OneDrive\Escritorio\Curso C# Pildoras\Prueba de Polimorfismo en C#\bin\Debug\HerenciaEnC#.exe.config
+C:\Users\Angel\OneDrive\Escritorio\Curso C# Pildoras\Prueba de Polimorfismo en C#\bin\Debug\HerenciaEnC#.exe
+C:\Users\Angel\OneDrive\Escritorio\Curso C# Pildoras\Prueba de Polimorfismo en C#\bin\Debug\HerenciaEnC#.pdb
+C:\Users\Angel\OneDrive\Escritorio\Curso C# Pildoras\Prueba de Polimorfismo en C#\obj\Debug\HerenciaEnC#.csproj.AssemblyReference.cache
+C:\Users\Angel\OneDrive\Escritorio\Curso C# Pildoras\Prueba de Polimorfismo en C#\obj\Debug\HerenciaEnC#.csproj.CoreCompileInputs.cache
+C:\Users\Angel\OneDrive\Escritorio\Curso C# Pildoras\Prueba de Polimorfismo en C#\obj\Debug\HerenciaEnC#.exe
+C:\Users\Angel\OneDrive\Escritorio\Curso C# Pildoras\Prueba de Polimorfismo en C#\obj\Debug\HerenciaEnC#.pdb
